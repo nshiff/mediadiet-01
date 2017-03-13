@@ -9,3 +9,8 @@ body {
 
 h1 {
   font-family: monospace; }
+
+table#form-initial-bias {
+  margin: auto; }
+  table#form-initial-bias td {
+    width: 20%; }
