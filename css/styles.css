@@ -1,0 +1,11 @@
+* {
+  font-family: monospace; }
+
+body {
+  background-color: darkgray;
+  color: black;
+  margin: 10px;
+  text-align: center; }
+
+h1 {
+  font-family: monospace; }

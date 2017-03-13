@@ -1,0 +1,16 @@
+{
+  "name": "suggestpolnews",
+  "version": "0.0.1",
+  "description": "Suggest diverse sources for political news based on user's bias",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
